@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="gb2312" ?>
+<TOP>	//此文件是VirtualCar.exe的应程序配置文件,必不可少,必须和VirutalCar.exe同一个目录.
+	<MAINWND>	//记录主窗体座标等，不要手动修改
+		<MAXIMIZED>1</MAXIMIZED>
+		<X>304</X>
+		<Y>208</Y>
+		<WIDTH>1015</WIDTH>
+		<HEIGHT>780</HEIGHT>
+	</MAINWND>
+	
+	<TAOWND>
+		<MAXIMIZED>0</MAXIMIZED>
+		<X>115</X>
+		<Y>69</Y>
+		<WIDTH>1021</WIDTH>
+		<HEIGHT>645</HEIGHT>
+	</TAOWND>
+
+	<LISTMAXROW>4096</LISTMAXROW>	//Listctr显多保存的行数，机器越好，可设置得越高
+	<AUTOREPLY100CUP>10</AUTOREPLY100CUP>	//毫秒值，在这个数值以下的定时自动回复将使用“高精准度"，但会占用大量CPU
+	<MODIFYALWAYS>0</MODIFYALWAYS>	//设置套窗口的"总是"是否默认钩选
+	<UEPATH></UEPATH>	//设置Ult
+	<LASTCONFIGFILE>E:\Work\Porsche\ģ��\Panamera_TP20_Simulator.xml</LASTCONFIGFILE>
+</TOP>
